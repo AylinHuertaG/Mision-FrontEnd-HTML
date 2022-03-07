@@ -1,0 +1,12 @@
+.adornos, .sabores, .continuar, .informacion{
+    text-align: center;
+}
+
+.stylePan, .styleAdorno{
+    width: 300px;
+    height: 180px;
+}
+
+.velaEspecial, .fruta, .redVelvet{
+    filter: brightness(40%);
+}
